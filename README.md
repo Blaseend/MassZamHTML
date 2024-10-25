@@ -1,5 +1,16 @@
 # MassZamHTML
 
+## Инструкция
+
+1. Укажи строки для поиска в строке if "XXX".lower() in line.lower():
+2. Перемести HTML файл/файлы в папку со скриптами
+3. В CMD перейди в папку со скриптами
+4. Выполни Python main.py
+5. C помощью GPT переобразуй текст в полученом файле log.txt и сохрани в нем изменения
+6. Выполни Python expo.py
+7. Выполни Python zam.py
+
+
 # EN LICENSE
 
  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
