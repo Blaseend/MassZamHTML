@@ -8,7 +8,7 @@ def find_obuch_in_file(file_path):
         
         matches = []
         for line_number, line in enumerate(lines, start=1):
-            if "обуч" in line.lower():  # Искомое слово 
+            if "ХХХ".lower() in line.lower():
                 matches.append(f"{line_number}: {line.strip()}")
         
         return matches
