@@ -1,10 +1,15 @@
 # MassZamHTML
 
+## Скачать python https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe
+
 ## Инструкция
 
 1. Укажи строки для поиска в строке if "XXX".lower() in line.lower():
 2. Перемести HTML файл/файлы в папку со скриптами
 3. В CMD перейди в папку со скриптами
+3.1 Нажми win+R
+3.2 Введи CMD
+3.3 Введи CD XXX, где XXX путь до папки
 4. Выполни Python main.py
 5. C помощью GPT переобразуй текст в полученом файле log.txt и сохрани в нем изменения
 6. Выполни Python expo.py
